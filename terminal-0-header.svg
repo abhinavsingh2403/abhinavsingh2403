@@ -1,0 +1,13 @@
+<svg width="760" height="150" viewBox="0 0 760 150" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#0d1117"/>
+    <stop offset="100%" stop-color="#0a0d12"/>
+  </linearGradient>
+</defs>
+<rect x="1" y="1" width="758" height="148" rx="10" fill="url(#bg)" stroke="#30363d" stroke-width="1.5"/>
+<rect x="18" y="18" width="724" height="114" fill="none" stroke="#00FF41" stroke-width="2"/>
+<rect x="24" y="24" width="712" height="102" fill="none" stroke="#00FF41" stroke-width="1"/>
+<text x="380.0" y="68" text-anchor="middle" fill="#00FF41" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:28px;font-weight:700;letter-spacing:6px;">ABHINAV SINGH</text>
+<text x="380.0" y="98" text-anchor="middle" fill="#c9d1d9" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:15px;letter-spacing:2px;">Security Engineer  //  Full-Stack  //  Applied IoT</text>
+</svg>
