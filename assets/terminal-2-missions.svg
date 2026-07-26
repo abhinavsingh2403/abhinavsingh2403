@@ -1,0 +1,36 @@
+<svg width="800" height="522" viewBox="0 0 800 522" xmlns="http://www.w3.org/2000/svg">
+<defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a0d12"/>
+    </linearGradient>
+  </defs>
+<rect x="1" y="1" width="798" height="520" rx="10" fill="url(#bg)" stroke="#30363d" stroke-width="1.5"/>
+<rect x="1" y="1" width="798" height="36" rx="10" fill="#161b22"/>
+<rect x="1" y="27" width="798" height="10" fill="#161b22"/>
+<circle cx="24" cy="19" r="6" fill="#ff5f56"/>
+<circle cx="44" cy="19" r="6" fill="#ffbd2e"/>
+<circle cx="64" cy="19" r="6" fill="#27c93f"/>
+<text x="400.0" y="24" text-anchor="middle" fill="#8b949e" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:13px;">bash — abhinav@security</text>
+<line x1="1" y1="37" x2="799" y2="37" stroke="#30363d" stroke-width="1"/>
+<text x="24" y="58" fill="#00FF41" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">root@abhinav:~$ tail -f missions.log</text>
+<text x="24" y="80" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;"></text>
+<text x="24" y="102" fill="#79c0ff" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;font-weight:600;">[MISSION_001] SovaScan</text>
+<text x="24" y="124" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">  TARGET   Banking infrastructure security audit</text>
+<text x="24" y="146" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">  TOOLS    Semgrep, Bandit, OSV.dev, entropy detection, live scan terminal</text>
+<text x="24" y="168" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">  RESULT   GRAND FINALIST — UCO Bank Hackathon (IIT Kharagpur Research Park)</text>
+<text x="24" y="190" fill="#3fb950" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;font-weight:700;">  STATUS   [SUCCESS]</text>
+<text x="24" y="212" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;"></text>
+<text x="24" y="234" fill="#79c0ff" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;font-weight:600;">[MISSION_002] Krishi Bandhu</text>
+<text x="24" y="256" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">  TARGET   Real-world agri-IoT deployment</text>
+<text x="24" y="278" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">  TOOLS    ESP32, soil/humidity/light/pH sensors, Gemini API</text>
+<text x="24" y="300" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">  PAYLOAD  Multilingual (Hindi/Kannada) voice assistant</text>
+<text x="24" y="322" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">  RESULT   Letter of Recommendation — Univ. of Agricultural Sciences, Raichur</text>
+<text x="24" y="344" fill="#3fb950" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;font-weight:700;">  STATUS   [SUCCESS]</text>
+<text x="24" y="366" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;"></text>
+<text x="24" y="388" fill="#79c0ff" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;font-weight:600;">[MISSION_003] TryGPT</text>
+<text x="24" y="410" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">  TARGET   Full-stack AI workspace</text>
+<text x="24" y="432" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">  TOOLS    RAG pipeline, SSE streaming, JWT auth, voice + image gen</text>
+<text x="24" y="454" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">  ENDPOINT trygpt.vercel.app</text>
+<text x="24" y="476" fill="#3fb950" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;font-weight:700;">  STATUS   [LIVE]</text>
+</svg>
