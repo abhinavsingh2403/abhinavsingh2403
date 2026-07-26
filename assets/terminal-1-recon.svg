@@ -1,0 +1,35 @@
+<svg width="740" height="500" viewBox="0 0 740 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a0d12"/>
+    </linearGradient>
+  </defs>
+<rect x="1" y="1" width="738" height="498" rx="10" fill="url(#bg)" stroke="#30363d" stroke-width="1.5"/>
+<rect x="1" y="1" width="738" height="36" rx="10" fill="#161b22"/>
+<rect x="1" y="27" width="738" height="10" fill="#161b22"/>
+<circle cx="24" cy="19" r="6" fill="#ff5f56"/>
+<circle cx="44" cy="19" r="6" fill="#ffbd2e"/>
+<circle cx="64" cy="19" r="6" fill="#27c93f"/>
+<text x="370.0" y="24" text-anchor="middle" fill="#8b949e" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:13px;">bash — abhinav@security</text>
+<line x1="1" y1="37" x2="739" y2="37" stroke="#30363d" stroke-width="1"/>
+<text x="24" y="58" fill="#00FF41" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">root@abhinav:~$ whoami --full</text>
+<text x="24" y="80" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;"></text>
+<text x="24" y="102" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">Abhinav Singh</text>
+<text x="24" y="124" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">2nd Year CSE — IoT, Cybersecurity &amp; Blockchain</text>
+<text x="24" y="146" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">B.M.S. College of Engineering, Bengaluru | CGPA: 9.25</text>
+<text x="24" y="168" fill="#3fb950" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;font-weight:600;">Objective: GSoC 2027</text>
+<text x="24" y="190" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;"></text>
+<text x="24" y="212" fill="#00FF41" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">root@abhinav:~$ nmap -sV --scripts=recon target=abhinavsingh2403</text>
+<text x="24" y="234" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;"></text>
+<text x="24" y="256" fill="#8b949e" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">Starting scan...</text>
+<text x="24" y="278" fill="#8b949e" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">Host is up.</text>
+<text x="24" y="300" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;"></text>
+<text x="24" y="322" fill="#58a6ff" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;font-weight:600;">PORT      STATE   SERVICE       DETAIL</text>
+<text x="24" y="344" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">443/tcp   open    appsec        Semgrep · Bandit · OSV.dev · OWASP</text>
+<text x="24" y="366" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">8080/tcp  open    fullstack     React · Node.js · TypeScript · MongoDB</text>
+<text x="24" y="388" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">9100/tcp  open    iot           ESP32 · sensor-fusion · embedded-C</text>
+<text x="24" y="410" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">5432/tcp  open    infra         Docker · Supabase · Vercel · Git</text>
+<text x="24" y="432" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;"></text>
+<text x="24" y="454" fill="#3fb950" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;font-weight:600;">4 open ports. Target is actively developing.</text>
+</svg>
