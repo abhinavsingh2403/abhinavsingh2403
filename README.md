@@ -1,38 +1,70 @@
-Hi I am Abhinav Singh ,
-🎓 2nd Year CSE (IoT, Cybersecurity & Blockchain) @ BMSCE, Bengaluru
+<div align="center">
 
-🔭 I'm currently working on
-Nothing at the moment — deliberately. Best projects start with the right problem, not just cool tech.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1600&pause=300&color=00FF41&background=0D1117FF&center=true&vCenter=true&width=600&height=90&lines=Booting+session...;Authenticating+user...;Access+granted." alt="boot" />
 
-👯 I'm looking to collaborate on
-AI tools that actually ship, Web3 projects beyond the hype, or anything at the crossroads of security + intelligence. If you're building something ambitious — I'm in.
+</div>
 
-🤔 I'm looking for help with
-The gap between "it works on my machine" and "it works in production." Scaling, infra, and system design are humbling me every single day.
+<div align="center">
+<img src="assets/terminal-0-header.svg" alt="Abhinav Singh" width="100%"/>
+</div>
 
-💬 Ask me about
-Honestly? Not the best at academics — but if you're stuck on something, I'll sit with you and figure it out. No guarantees, full effort.
+<div align="center">
 
-📫 How to reach me
-LinkedIn — I actually respond. Or open an issue on one of my repos, that works too.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/abhinav-singh-166353309)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:abhi.prep.24@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-6e40c9?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/abhinavsingh2403)
 
-😄 Pronouns
-He / Him
-
-⚡ Fun fact
-I once pushed my .env to GitHub. Rotated everything, scrubbed the history, and now I check .gitignore before I check my code. Best mistake I ever made. 🏏
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhinavsingh24302006) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhi.prep.24@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abhinavsingh2403&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=abhinavsingh2403&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhinavsingh2403&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=abhinavsingh2403&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+<img src="assets/terminal-1-recon.svg" alt="whoami and nmap recon" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="assets/terminal-2-missions.svg" alt="missions log" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="assets/terminal-3-status.svg" alt="incident report, credentials, objective" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,py,ts,js,react,nodejs,mongodb,mysql,supabase,docker,vercel,git,github,figma&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.shion.dev/api?username=abhinavsingh2403&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
+<img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=abhinavsingh2403&theme=chartreuse-dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9"/>
+
+<img src="https://streak-stats.demolab.com/?user=abhinavsingh2403&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhinavsingh2403&theme=matrix&no-frame=true&row=1&column=6" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+```bash
+root@abhinav:~$ echo "Open to security + full-stack collabs. Ping me."
+```
+
+</div>
