@@ -1,0 +1,31 @@
+<svg width="760" height="412" viewBox="0 0 760 412" xmlns="http://www.w3.org/2000/svg">
+<defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a0d12"/>
+    </linearGradient>
+  </defs>
+<rect x="1" y="1" width="758" height="410" rx="10" fill="url(#bg)" stroke="#30363d" stroke-width="1.5"/>
+<rect x="1" y="1" width="758" height="36" rx="10" fill="#161b22"/>
+<rect x="1" y="27" width="758" height="10" fill="#161b22"/>
+<circle cx="24" cy="19" r="6" fill="#ff5f56"/>
+<circle cx="44" cy="19" r="6" fill="#ffbd2e"/>
+<circle cx="64" cy="19" r="6" fill="#27c93f"/>
+<text x="380.0" y="24" text-anchor="middle" fill="#8b949e" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:13px;">bash — abhinav@security</text>
+<line x1="1" y1="37" x2="759" y2="37" stroke="#30363d" stroke-width="1"/>
+<text x="24" y="58" fill="#00FF41" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">root@abhinav:~$ cat incident_report.log</text>
+<text x="24" y="80" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;"></text>
+<text x="24" y="102" fill="#f0883e" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;font-weight:600;">[INCIDENT] .env credentials committed to public repo</text>
+<text x="24" y="124" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">[ACTION]   Rotated all keys. Scrubbed git history. Enabled secret scanning.</text>
+<text x="24" y="146" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">[LESSON]   .gitignore checked before every commit, permanently.</text>
+<text x="24" y="168" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;"></text>
+<text x="24" y="190" fill="#00FF41" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">root@abhinav:~$ cat credentials.log</text>
+<text x="24" y="212" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;"></text>
+<text x="24" y="234" fill="#79c0ff" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;font-weight:600;">[CERT] Nutanix Certified Associate (NCA)</text>
+<text x="24" y="256" fill="#79c0ff" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;font-weight:600;">[CERT] Deloitte Australia — Cyber Security Job Simulation</text>
+<text x="24" y="278" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;"></text>
+<text x="24" y="300" fill="#00FF41" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;">root@abhinav:~$ echo $CURRENT_OBJECTIVE</text>
+<text x="24" y="322" fill="#c9d1d9" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;"></text>
+<text x="24" y="344" fill="#3fb950" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;font-weight:600;">Grinding DSA (arrays → DP) | Contributing to open-source security</text>
+<text x="24" y="366" fill="#3fb950" xml:space="preserve" style="font-family:'Fira Code','Consolas','SFMono-Regular',monospace;font-size:14px;font-weight:600;">tools | Target: GSoC 2027</text>
+</svg>
